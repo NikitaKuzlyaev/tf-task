@@ -24,7 +24,6 @@ stack = []
 field[1][1] = '.'
  
 while True:
-    # тут делаю запрос
     q_dir = 'down'
  
     for direction_name, transform in vectors.items():
